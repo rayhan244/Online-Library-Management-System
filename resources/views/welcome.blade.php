@@ -75,9 +75,6 @@
                         Batch: 44th (A)
                    </p>
                 </div>
-                <div class="links">
-                    <a href="https://github.com/JHS-Sujel/CRUD-operation-Laravel-">GitHub Link </a>
-                </div>
             </div>
        
     </body>
